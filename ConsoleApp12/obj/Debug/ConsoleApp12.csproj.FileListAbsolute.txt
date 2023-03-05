@@ -1,0 +1,8 @@
+C:\гр115\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+C:\гр115\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+C:\гр115\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+C:\гр115\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.AssemblyReference.cache
+C:\гр115\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.SuggestedBindingRedirects.cache
+C:\гр115\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\гр115\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+C:\гр115\ConsoleApp12\obj\Debug\ConsoleApp12.pdb
